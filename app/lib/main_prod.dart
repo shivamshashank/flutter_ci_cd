@@ -4,6 +4,6 @@ import 'app.dart';
 
 void main() {
   runApp(
-    const FlutterDemo(env: "Prod"),
+    const FlutterDemo(env: 'Prod'),
   );
 }
